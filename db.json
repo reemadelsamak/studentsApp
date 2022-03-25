@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Reem",
+      "city": "Mahalla"
+    },
+    {
+      "id": 7,
+      "name": "Adel",
+      "city": "Tanta"
+    },
+    {
+      "name": "Samak",
+      "city": "Mansoura",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
