@@ -1,4 +1,4 @@
-# student-d03
+# studentApp
 
 ## Project setup
 ```
