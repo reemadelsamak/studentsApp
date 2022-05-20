@@ -1,19 +1,19 @@
-# studentApp
+# Simple Sudent App
+CRUD Operations using VueJS
 
 ## Project setup
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+## Connect to Database Server
+```
+nmp run db:server
+```
+## Run the Project
 ```
 npm run serve
 ```
+# Demo
 
-### Compiles and minifies for production
-```
-npm run build
-```
+https://user-images.githubusercontent.com/72516521/169609749-862663d2-12ca-443f-8613-fc337b50c253.mp4
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
